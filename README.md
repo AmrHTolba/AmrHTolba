@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmrFiqi
-- 👀 I’m interested in CS & Swimming
-- 🌱 I’m currently learning Web Development (Front-End), Machine Learning and VR
+- 👀 I’m interested in Web Development, VR, And Data Science
+- 🌱 I’m currently learning Web Development (Front-End) & VR.
 - 💞️ I’m looking to collaborate on Any Project that can help me improve
 - 📫 How to reach me: amrfiqi55@gmail.com
 
